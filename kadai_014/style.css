@@ -1,14 +1,20 @@
+html {
+    font-size: 20px;
+}
+
+
+
 body {
     font-family: "Arial", "Meiryo", sans-serif;
     text-align: center;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 2rem;
     font-family: "Josefin Sans", sans-serif;
     text-shadow: 7px 7px 10px  rgba(32, 32, 32, 0.2);
     border-bottom: solid 3px rgb(115, 115, 114);
-    letter-spacing: 1em;
+    letter-spacing: 1.2em;
     
 }
 
